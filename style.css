@@ -1,0 +1,99 @@
+.left_top_links {
+    width: 20%;
+}
+
+.right_top_links {
+    float: right;
+    width: 20%;
+    display: flex; 
+    justify-content: flex-end;
+}
+
+.search_form {
+    margin-top: 8%;
+}
+
+.search_bar {
+    margin-left: 2%;
+    display: block;
+    box-sizing: content-box;
+    width: 640px;
+    height: 120px;
+    align-content: center;
+}
+
+#search_box {
+    background-color: transparent;
+    margin-top: 2%;
+    height: 30px;
+    border-radius: 10px;
+    display: inline-block;
+    width: 640px;
+}
+
+#search_icon {
+    width: 20px;
+    position: relative;
+    
+}
+
+#voice_search {
+    width: 15px;
+    position: relative;
+}
+
+.buttons {
+    margin-top: 1%;
+}
+
+.left_bottom_links {
+    margin-top: 33%;
+}
+
+.right_bottom_links {
+    float: right;
+    display: flex; 
+    justify-content: flex-end;
+}
+
+#store{
+    margin-left: 1%;
+}
+
+#how_search_works {
+margin-left: 2%;
+}
+
+#business {
+    margin-left: 2%;
+}
+
+#privacy {
+    margin-right: 30%;
+}
+
+#terms {
+    margin-right: 30%;
+}
+
+#gmail {
+    margin-right: 10%;
+}
+
+#images {
+    margin-right: 10%;
+}
+
+#voice_search_container {
+    position: relative;
+    top: -28px; 
+    float: right;
+    right: 10px;
+}
+
+#search_icon_container {
+    position: relative;
+    top: -28px;
+    float: left;
+    left: 10px;
+}
